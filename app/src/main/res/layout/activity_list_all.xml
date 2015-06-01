@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+    android:orientation="vertical" 
+    
+   >
+   <TextView
+       android:id="@+id/display_info"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textColor="@color/myred"
+       android:textSize="30dp"
+       android:textAlignment="center"
+       android:paddingLeft="100dp"></TextView>
+    <ListView
+        android:id="@+id/cards_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp"
+        android:padding="4dp"
+        android:scrollbarStyle="outsideOverlay"
+        
+        tools:listitem="@layout/activity_one" />
+<!--  -->
+</LinearLayout>

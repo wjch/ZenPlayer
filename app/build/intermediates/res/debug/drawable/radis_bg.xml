@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <corners android:radius="8dp"/>
+    <solid android:color="#ffffff"/>
+</shape><!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/drawable/radis_bg.xml -->

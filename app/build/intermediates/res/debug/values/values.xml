@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="agreen">#40C4C4</color>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#66000000</color>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="light_grey">#f0f0f0</color>
+    <color name="likeblue">#1962AE</color>
+    <color name="myred">#CA6157</color>
+    <color name="super_light_grey">#f6f6f6</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">设置</string>
+    <string name="app_name">音乐播放器</string>
+    <string name="dummy_button">音乐播放器</string>
+    <string name="dummy_content">作者：王界超</string>
+    <string name="email">邮     箱</string>
+    <string name="emailinput">请输入你的邮箱</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">登录</string>
+    <string name="loops">loops</string>
+    <string name="next">next</string>
+    <string name="passinput">密码在6位至20位</string>
+    <string name="password"> 密     码</string>
+    <string name="play">play</string>
+    <string name="previous">previous</string>
+    <string name="register">注册</string>
+    <string name="scanmusic">扫描音乐</string>
+    <string name="share_to">分享给朋友</string>
+    <string name="songname_none">歌曲名暂无</string>
+    <string name="title_activity_about_me">AboutMeActivity</string>
+    <string name="title_activity_app_start">AppStartActivity</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_one">音乐</string>
+    <string name="title_activity_register">注册</string>
+    <string name="title_activity_scan_music">ScanMusicActivity</string>
+    <string name="username">用户名</string>
+    <string name="usernameinput">用户名在6位至20位之间</string>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/styles_wjchactionbar.xml -->
+    <eat-comment/>
+    <style name="ActionBar.Solid.Wjchactionbar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_solid_wjchactionbar</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_wjchactionbar</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_wjchactionbar</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Wjchactionbar</item>
+    </style>
+    <style name="ActionBar.Transparent.Wjchactionbar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_wjchactionbar</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Wjchactionbar</item>
+    </style>
+    <style name="ActionBarTabStyle.Wjchactionbar" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_wjchactionbar</item>
+    </style>
+    <style name="ActionButton.CloseMode.Wjchactionbar" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_wjchactionbar</item>
+    </style>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/styles_wjchactionbar.xml -->
+    <eat-comment/>
+    <style name="DropDownListView.Wjchactionbar" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_wjchactionbar</item>
+    </style>
+    <style name="DropDownNav.Wjchactionbar" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_wjchactionbar</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_wjchactionbar</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_wjchactionbar</item>
+    </style>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+    <style name="ListItemText" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">5dip</item>
+        <item name="android:minLines">3</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- From: file:/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/src/main/res/values/styles_wjchactionbar.xml -->
+    <eat-comment/>
+    <style name="PopupMenu.Wjchactionbar" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_wjchactionbar</item> 
+    </style>
+    <style name="ProgressBar.Wjchactionbar" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_wjchactionbar</item>
+    </style>
+    <style name="Theme.Wjchactionbar.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Wjchactionbar</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Wjchactionbar</item>
+    </style>
+    <style name="wjchred" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_wjchactionbar</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Wjchactionbar</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Wjchactionbar</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Wjchactionbar</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Wjchactionbar</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Wjchactionbar</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_wjchactionbar</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_wjchactionbar</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Wjchactionbar</item>
+        
+        
+    </style>
+</resources>

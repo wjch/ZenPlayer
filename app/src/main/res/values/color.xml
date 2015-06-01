@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_grey">#f0f0f0</color>
+    <color name="super_light_grey">#f6f6f6</color>
+    <color name="white">#ffffff</color>
+    <color name="agreen">#40C4C4</color>
+    <color name="likeblue">#1962AE</color>
+    <color name="myred">#CA6157</color>
+</resources>

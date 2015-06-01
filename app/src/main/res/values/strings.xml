@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">音乐播放器</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_one">音乐</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="play">play</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="loops">loops</string>
+    <string name="title_activity_about_me">AboutMeActivity</string>
+    <string name="dummy_button">音乐播放器</string>
+    <string name="dummy_content">作者：王界超</string>
+    <string name="title_activity_app_start">AppStartActivity</string>
+    <string name="songname_none">歌曲名暂无</string>
+    <string name="title_activity_scan_music">ScanMusicActivity</string>
+    <string name="title_activity_login">登录</string>
+    <string name="username">用户名</string>
+    <string name="password"> 密     码</string>
+    <string name="email">邮     箱</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="title_activity_register">注册</string>
+    <string name="emailinput">请输入你的邮箱</string>
+    <string name="usernameinput">用户名在6位至20位之间</string>
+    <string name="passinput">密码在6位至20位</string>
+    <string name="scanmusic">扫描音乐</string>
+    <string name="share_to">分享给朋友</string>
+</resources>

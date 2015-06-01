@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/build/intermediates/pre-dexed/debug/volley-12e0292779ac2fd851868d16256899f25f79004f.jar" />
+    </item>
+    <item
+        jar="/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-76515ab371b70aa56926d6d718a450f20836eb08.jar" />
+    </item>
+    <item
+        jar="/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/libs/dom4j-1.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="/Users/mywjch/AndroidStudioProjects/MusicPlayer9/app/build/intermediates/pre-dexed/debug/dom4j-1.6.1-7d93b53dc58c5403567e0cf17db4266431d03a55.jar" />
+    </item>
+
+</items>
